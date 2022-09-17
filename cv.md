@@ -1,15 +1,15 @@
-#Andrei Lepkovich
+# Andrei Lepkovich
 
-##Contacts:
+## Contacts:
 * tel: +375(29)633-2133
 * e-mail: 6332133@gmail.com
 * discord: Андрей Лепкович#9334
 
-##Summary:
+## Summary:
 I'd like to go deep in IT world, starting with Frontend developing. Have my own e-commerce business more than 10 years (product and project management).
 
 
-##Skills:
+## Skills:
 * html basics (Course on Codecademy passed)
 * css basics (Course on Codecademy passed)
 * begining level of JavaScript (Course on Codecademy in progress)
@@ -22,8 +22,8 @@ function multiply(a, b){
 }
 ```
 
-##Education:
+## Education:
 Belarusian National Technical University, Automobile and Tractor Faculty
 
-##English:
+## English:
 Good speaking practice (work in Ireland for three years). Have passed the English test on EPAM Training Center platform with A2 level.
