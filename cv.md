@@ -13,6 +13,8 @@ I'd like to go deep in IT world, starting with Frontend developing. Have my own 
 * html basics (Course on Codecademy passed)
 * css basics (Course on Codecademy passed)
 * begining level of JavaScript (Course on Codecademy in progress)
+
+
 **Code sample from Codewars.com:**
 ```
 function multiply(a, b){
